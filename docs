@@ -8,6 +8,5 @@ git diff
 git add .
 git commit-m
 janu
-reset
-revert
-
+reset is used for undo the changes
+revertis used for reverting the specific commits
