@@ -8,8 +8,8 @@ git diff
 git add .
 git commit-m
 janu
-git reset
-git revert
-git cherry-pick
-git stash
+s
+j
+k
+
 
