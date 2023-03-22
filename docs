@@ -1,4 +1,4 @@
-git config
+2igit config
 git clone
 git pull
 git fetch
@@ -12,4 +12,7 @@ git reset
 git revert
 git cherry-pick
 git stash
+a
+b
+c
 
