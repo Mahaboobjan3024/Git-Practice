@@ -10,3 +10,6 @@ git commit-m
 janu
 git reset
 git revert
+git cherry-pick
+git stash
+
